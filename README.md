@@ -1,11 +1,12 @@
-# App Name
+# First Copilot App
 
 ## Description
-A brief description of your app.
+This app is built with Python and Flask framework. It serves as a web server that roots an `index.html` file. By running the app, you can access the `index.html` file in your browser at `http://localhost:5000`. The app provides a simple and efficient way to host static web content using Flask.
 
 ## Installation
 1. Clone the repository.
-2. Install the required dependencies using `pip install -r requirements.txt`.
+2. Install Flask by running `pip install flask`.
+
 
 ## Usage
 1. Run the app using `python app.py`.
