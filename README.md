@@ -13,9 +13,7 @@ This app is built with Python and Flask framework. It serves as a web server tha
 2. Access the app in your browser at `http://localhost:5000`.
 
 ## Features
-- Feature 1: Description of feature 1.
-- Feature 2: Description of feature 2.
-- ...
+- Feature 1: Displays `index.html`.
 
 ## Contributing
 1. Fork the repository.
@@ -23,10 +21,3 @@ This app is built with Python and Flask framework. It serves as a web server tha
 3. Make your changes and commit them.
 4. Push your changes to your forked repository.
 5. Open a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-- Email: your-email@example.com
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
